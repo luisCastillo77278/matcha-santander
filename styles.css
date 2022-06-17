@@ -1,6 +1,5 @@
 body {
-  /* background-color: #fffbf7; */
-  background-color: black;
+  background-color: #fffbf7;
 }
 
 h1 {
@@ -83,4 +82,24 @@ li {
 .main {
   margin-top: 140px;
   text-align: center;
+}
+
+
+.publish h3{
+  font-family: "Alegreya", serif;
+  color: #025157;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.publish > form p{
+  color: #025157;
+  margin-right: 18px;
+}
+
+.publish > p{
+  color: #343434;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
 }
